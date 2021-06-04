@@ -1,2 +1,2 @@
 # Kwicpic
-project on face detection
+Mini Project on face detection
